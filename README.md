@@ -1,5 +1,7 @@
 # 3005pr
 
+3005 final project. Using python and psycopg2, this repository contains the files implementing a bookstore using database management systems.
+
 First install psycopg2 python library using pip
 
 ### In one terminal tab run (this will be the interface you will interact with):
